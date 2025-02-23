@@ -34,7 +34,7 @@
         // Return "A", "B", "C", "D", "<D" or any ranking system you prefer
         return "A"; // Example logic
     }
-}
+    }
 
       // Class Classroom
     public class Classroom {
@@ -288,6 +288,6 @@
             }
         }
     }
-}
+    }
 
 
